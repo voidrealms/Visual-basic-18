@@ -1,0 +1,10 @@
+E:\Video Tutorials\VB.net\Source\VB 18\ConsApp subs 18\bin\Debug\ConsApp subs 18.exe
+E:\Video Tutorials\VB.net\Source\VB 18\ConsApp subs 18\bin\Debug\ConsApp subs 18.pdb
+E:\Video Tutorials\VB.net\Source\VB 18\ConsApp subs 18\bin\Debug\ConsApp subs 18.xml
+E:\Video Tutorials\VB.net\Source\VB 18\ConsApp subs 18\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Video Tutorials\VB.net\Source\VB 18\ConsApp subs 18\obj\x86\Debug\ConsoleApplication1.Resources.resources
+E:\Video Tutorials\VB.net\Source\VB 18\ConsApp subs 18\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Video Tutorials\VB.net\Source\VB 18\ConsApp subs 18\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Video Tutorials\VB.net\Source\VB 18\ConsApp subs 18\obj\x86\Debug\ConsApp subs 18.exe
+E:\Video Tutorials\VB.net\Source\VB 18\ConsApp subs 18\obj\x86\Debug\ConsApp subs 18.xml
+E:\Video Tutorials\VB.net\Source\VB 18\ConsApp subs 18\obj\x86\Debug\ConsApp subs 18.pdb
